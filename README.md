@@ -23,5 +23,5 @@ El proyecto analiza las empresas del S&P 500 mediante la recolección y almacena
 - FASE-4: Esta carpeta contiene el dashboard en Power BI para realizar un análisis descriptivo de las acciones del S&P 500 y sus precios. El tablero de control debe incluir KPIs en tarjetas, tooltips y bookmarks para una mejor visualización y navegación.
 
 - FASE-5: Esta carpeta incluye los archivos necesarios para clasificar las acciones del S&P 500 en grupos basados en indicadores de volatilidad.
-  -**Archivo Python (ETL_y_Clusterización_de_Empresas_del_S&P_500.ipynb)**: Notebook de Jupyter para realizar ETL y aplicar técnicas de clustering a las acciones del S&P 500 según su volatilidad.
-  -**Archivo CSV**: Datos utilizados para el análisis de volatilidad y agrupamiento.
+  - **Archivo Python (ETL_y_Clusterización_de_Empresas_del_S&P_500.ipynb)**: Notebook de Jupyter para realizar ETL y aplicar técnicas de clustering a las acciones del S&P 500 según su volatilidad.
+  - **Archivo CSV**: Datos utilizados para el análisis de volatilidad y agrupamiento.
