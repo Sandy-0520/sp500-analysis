@@ -45,3 +45,17 @@ Revisar y actualizar los scripts de las fases correspondientes para asegurar que
   - Verificar que los datos se hayan cargado correctamente en la base de datos.
   - Revisar el dashboard creado en Power BI.
   - Consultar los resultados del clustering en el notebook de Jupyter.
+ 
+## Fases de Proyecto
+- Fase 1: Obtención de Datos
+  - Recolección de información financiera de las empresas del S&P 500 desde una fuente de datos en línea y recopilación de datos históricos sobre el rendimiento de las acciones durante el último año.
+    
+- Fase 3: Almacenamiento en SQL Server
+  - Importación de los datos procesados y validados a una base de datos en SQL Server para su almacenamiento y gestión eficiente.
+ 
+- Fase 4: Análisis y Dashboard en Power BI
+  -Desarrollo de un dashboard interactivo en Power BI que incluye KPIs, tooltips y bookmarks. Este dashboard incorpora un análisis descriptivo e inferencial de los precios de las acciones, proporcionando una visión detallada de las tendencias y patrones en los datos.
+
+- Fase 5: Clusterización de las Acciones
+  - Implementación de técnicas de clustering para clasificar las acciones en grupos basados en sus características de volatilidad y rendimiento.
+
