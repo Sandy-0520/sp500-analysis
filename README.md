@@ -60,5 +60,5 @@ Revisar y actualizar los scripts de las fases correspondientes para asegurar que
   - Implementación de técnicas de clustering para clasificar las acciones en grupos basados en sus características de volatilidad y rendimiento.
  
 - Fase 6: Publicación en GitHub
-  -Subida del proyecto al repositorio de GitHub, con la inclusión del código, los datos y una guía detallada en el archivo README.md para facilitar la comprensión y uso del proyecto.
+  - Subida del proyecto al repositorio de GitHub, con la inclusión del código, los datos y una guía detallada en el archivo README.md para facilitar la comprensión y uso del proyecto.
 
