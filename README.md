@@ -15,7 +15,7 @@ El proyecto analiza las empresas del S&P 500 mediante la recolección y almacena
   - **Tablas de Empresas-table_empresas.csv**: Archivos con información de las empresas del S&P 500.
 
 - FASE-3: Almacenamiento de Datos en SQL Server con Python
-  - **Archivo Python (PROYECTO3-pyodbc.py)**: Script para conectar a SQL Server y cargar datos desde archivos CSV.
+  - **Archivo Python (PROYECTO3-pyodbc.py)**: Script para conectar a SQL Server y cargar datos desde archivos CSV. Para proteger la información confidencial, los datos de configuración de la conexión (como server, database, username y password) no se han incluido en el archivo.
   - **Archivo .env**: Contiene variables de entorno para la conexión a SQL Server (servidor, base de datos, usuario, contraseña).
   - **Carpeta .vscode**: Configuraciones de Visual Studio Code para el desarrollo.
   - **Archivos CSV**: Datos que se cargarán en SQL Server.
