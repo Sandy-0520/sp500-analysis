@@ -25,3 +25,24 @@ El proyecto analiza las empresas del S&P 500 mediante la recolección y almacena
 - FASE-5: Esta carpeta incluye los archivos necesarios para clasificar las acciones del S&P 500 en grupos basados en indicadores de volatilidad.
   - **Archivo Python (ETL_y_Clusterización_de_Empresas_del_S&P_500.ipynb)**: Notebook de Jupyter para realizar ETL y aplicar técnicas de clustering a las acciones del S&P 500 según su volatilidad.
   - **Archivo CSV**: Datos utilizados para el análisis de volatilidad y agrupamiento.
+
+## Instrucciones de Instalación y Uso
+- Clonar el repositorio:
+Se debe clonar el repositorio del proyecto desde GitHub y acceder al directorio del proyecto.
+
+- Instalar las dependencias:
+Asegúrarse de tener pip instalado y actualizado. Luego, instale las dependencias necesarias utilizando el archivo requirements.txt proporcionado.
+
+- Configurar el entorno:
+  - Archivo .env:
+Crear un archivo llamado .env en el directorio raíz del proyecto.
+Agregar las credenciales necesarias para la conexión a SQL Server en el archivo .env.
+  -Ajustar los scripts:
+Revisar y actualizar los scripts de las fases correspondientes para asegurar que la configuración de conexión a SQL Server sea correcta.
+
+- Ejecutar los scripts en el orden correspondiente para realizar un analisis completo.
+  
+- Revisa los resultados:
+  - Verificar que los datos se hayan cargado correctamente en la base de datos.
+  - Revisar el dashboard creado en Power BI.
+  - Consultar los resultados del clustering en el notebook de Jupyter.
