@@ -34,10 +34,9 @@ Se debe clonar el repositorio del proyecto desde GitHub y acceder al directorio 
 Asegúrarse de tener pip instalado y actualizado. Luego, instale las dependencias necesarias utilizando el archivo requirements.txt proporcionado.
 
 - Configurar el entorno:
-  - Archivo .env:
-Crear un archivo llamado .env en el directorio raíz del proyecto.
-Agregar las credenciales necesarias para la conexión a SQL Server en el archivo .env.
-  -Ajustar los scripts:
+  - Archivo .env:Crear un archivo llamado .env en el directorio raíz del proyecto.
+  - Agregar las credenciales necesarias para la conexión a SQL Server en el archivo .env.
+  - Ajustar los scripts:
 Revisar y actualizar los scripts de las fases correspondientes para asegurar que la configuración de conexión a SQL Server sea correcta.
 
 - Ejecutar los scripts en el orden correspondiente para realizar un analisis completo.
