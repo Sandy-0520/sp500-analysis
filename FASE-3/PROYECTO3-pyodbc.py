@@ -5,10 +5,10 @@ import pandas as pd
 
 
 # 1. Configuración de la conexión
-server = 'DESKTOP-IB90627'
-database = 'PROYECTO3'
-username = 'zoe12'
-password = '12345'
+server = '---'
+database = '---'
+username = '---'
+password = '---'
 connection_string = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}'
 
 # Conexión a la base de datos
