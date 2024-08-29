@@ -54,8 +54,11 @@ Revisar y actualizar los scripts de las fases correspondientes para asegurar que
   - Importación de los datos procesados y validados a una base de datos en SQL Server para su almacenamiento y gestión eficiente.
  
 - Fase 4: Análisis y Dashboard en Power BI
-  -Desarrollo de un dashboard interactivo en Power BI que incluye KPIs, tooltips y bookmarks. Este dashboard incorpora un análisis descriptivo e inferencial de los precios de las acciones, proporcionando una visión detallada de las tendencias y patrones en los datos.
+  - Desarrollo de un dashboard interactivo en Power BI que incluye KPIs, tooltips y bookmarks. Este dashboard incorpora un análisis descriptivo e inferencial de los precios de las acciones, proporcionando una visión detallada de las tendencias y patrones en los datos.
 
 - Fase 5: Clusterización de las Acciones
   - Implementación de técnicas de clustering para clasificar las acciones en grupos basados en sus características de volatilidad y rendimiento.
+ 
+- Fase 6: Publicación en GitHub
+  -Subida del proyecto al repositorio de GitHub, con la inclusión del código, los datos y una guía detallada en el archivo README.md para facilitar la comprensión y uso del proyecto.
 
